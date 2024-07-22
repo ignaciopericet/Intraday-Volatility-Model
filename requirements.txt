@@ -1,0 +1,9 @@
+
+### Enhanced `requirements.txt`
+
+```text
+numpy
+pandas
+matplotlib
+scipy
+sklearn
