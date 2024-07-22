@@ -1,5 +1,5 @@
 import unittest
-from src.volatility import calculate_intraday_volatility
+from src.volatility.py import calculate_intraday_volatility
 import pandas as pd
 
 class TestVolatility(unittest.TestCase):
